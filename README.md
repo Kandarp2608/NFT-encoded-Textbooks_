@@ -17,5 +17,5 @@ The vision of [Project Name] is to [describe the long-term goal of the project].
 - **Community Involvement**: Encouraging contributions and feedback from users to refine and evolve the project.
 
 ## 5. Contract Details
-- **Contract Address**: "0x45ed6ba7ead9297e9ac7be0103724eca44811f1b76f6b7d5bb96e8605be90fb1"
+- **Contract Address**: 0x45ed6ba7ead9297e9ac7be0103724eca44811f1b76f6b7d5bb96e8605be90fb1
 
