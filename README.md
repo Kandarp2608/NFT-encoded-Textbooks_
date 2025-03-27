@@ -1,7 +1,7 @@
 # Project README
 
 ## 1. Title
-**[NFT ENCODED TEXTBOOKS]**
+**NFT ENCODED TEXTBOOKS**
 
 ## 2. Description
 [Project Name] is a [brief description of the project]. This project aims to [mention key objectives and functionalities]. Built using [mention technologies used], it provides users with [highlight key features and benefits].
